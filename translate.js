@@ -16,7 +16,7 @@ async function queryAPI(data) {
     return {
       id: result.id,
       code: 200,
-      data: result?.result?.texts?.[0]?.text,
+      data: result.result.texts[0].text,
     };
   }
 
