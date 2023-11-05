@@ -6,7 +6,7 @@ This is the js implementation of [DeepLX](https://github.com/OwO-Network/DeepLX)
 
 ### Demo
 
-![demo](https://images.mingming.dev/file/748b44724c234f28b18e5.png)
+![demo](https://images.mingming.dev/file/9547a9862199c43968e1c.png)
 
 ### License
 
