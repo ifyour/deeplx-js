@@ -1,0 +1,15 @@
+{
+  "name": "deeplx",
+  "version": "1.0.0",
+  "description": "🥰 JavaScript implementation of DeepLx with one-click deployment support",
+  "main": "translate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "ifyour",
+  "license": "ISC",
+  "dependencies": {
+    "@ifyour/deeplx": "^0.1.1"
+  }
+}
