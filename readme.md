@@ -6,6 +6,16 @@ This is the js implementation of [DeepLX](https://github.com/OwO-Network/DeepLX)
 
 ### Demo
 
+Test input parameters:
+
+```json
+{
+    "text": "你好，世界",
+    "source_lang": "zh",
+    "target_lang": "en"
+}
+```
+
 ![demo](https://images.mingming.dev/file/9547a9862199c43968e1c.png)
 
 ### License
