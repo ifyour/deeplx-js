@@ -16,7 +16,7 @@ Test input parameters:
 }
 ```
 
-![demo](https://images.mingming.dev/file/9547a9862199c43968e1c.png)
+![demo](https://images.mingming.dev/file/798df7bf062e406b5a0c3.png)
 
 ### License
 
