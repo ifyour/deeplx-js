@@ -10,13 +10,13 @@ Test input parameters:
 
 ```json
 {
-    "text": "你好，世界",
-    "source_lang": "zh",
-    "target_lang": "en"
+  "text": "你好，世界",
+  "source_lang": "zh",
+  "target_lang": "en"
 }
 ```
 
-![demo](https://images.mingming.dev/file/798df7bf062e406b5a0c3.png)
+![demo](https://images.mingming.dev/file/d1c6fd89334f18b34d9ac.png)
 
 ### License
 
