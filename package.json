@@ -10,6 +10,6 @@
   "author": "ifyour",
   "license": "ISC",
   "dependencies": {
-    "@ifyour/deeplx": "^0.1.12"
+    "@ifyour/deeplx": "^0.1.17"
   }
 }
